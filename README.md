@@ -17,6 +17,7 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 - 🔭 I’m currently working on:
+
 [![github-stats-card](https://stats-card.pages.dev/repo?user=Anchor6777&repo=bilibili-project&theme=vue&layout=compact)](https://github.com/KasRoudra/github-stats-card)
 - 🌱 I’m currently learning **frontend related techs**
 - 📝 I regularly write articles on [https://anchor6777.github.io/](https://anchor6777.github.io/)
