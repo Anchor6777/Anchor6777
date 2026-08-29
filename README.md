@@ -23,4 +23,4 @@
 - 📝 I regularly write articles on [https://anchor6777.github.io/](https://anchor6777.github.io/)
 - 📫 How to reach me 1592730587@qq.com
 
-![Anchor's Github Stats](https://github-readme-stats-anchor6777.vercel.app/api?username=Anchor6777)
+![Anchor's Github Stats](https://github-readme-stats-anchor6777.vercel.app/api?username=Anchor6777&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true#gh-dark-mode-only)
