@@ -16,9 +16,9 @@
 
 - 🔭 I’m currently working on:
 
-[![github-stats-card](https://stats-card.pages.dev/repo?user=Anchor6777&repo=bilibili-project&theme=vue&layout=compact)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://stats-card.pages.dev/repo?user=Anchor6777&repo=bilibili-project&theme=vue-dark&layout=compact)](https://github.com/KasRoudra/github-stats-card)
 - 🌱 I’m currently learning **frontend related techs**
 - 📝 I regularly write articles on [https://anchor6777.github.io/](https://anchor6777.github.io/)
 - 📫 How to reach me 1592730587@qq.com
 
-![Anchor's Github Stats](https://github-readme-stats-anchor6777.vercel.app/api?username=Anchor6777&count_private=true&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true#gh-dark-mode-only)
+![Anchor's Github Stats](https://github-readme-stats-anchor6777.vercel.app/api?username=Anchor6777&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true#gh-dark-mode-only)
