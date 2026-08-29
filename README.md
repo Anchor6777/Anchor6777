@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Λnchor
-### A passionate web/android developer/beginner from CN  
+### A passionate Web/Android developer/beginner from CN  
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
