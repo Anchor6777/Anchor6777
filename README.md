@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on:
 
-[![github-stats-card](https://stats-card.pages.dev/repo?user=Anchor6777&repo=bilibili-project&theme=tokyonight&layout=compact)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://stats-card.pages.dev/repo?user=Anchor6777&repo=bilibili-project&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/KasRoudra/github-stats-card)
 - 🌱 I’m currently learning **frontend related techs**
 - 📝 I regularly write articles on [https://anchor6777.github.io/](https://anchor6777.github.io/)
 - 📫 How to reach me 1592730587@qq.com
