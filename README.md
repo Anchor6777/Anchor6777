@@ -22,3 +22,5 @@
 - 📫 How to reach me 1592730587@qq.com
 
 ![Anchor's Github Stats](https://github-readme-stats-anchor6777.vercel.app/api?username=Anchor6777)
+
+[![github-stats-card](https://stats-card.pages.dev/repo?user=anchor6777&repo=bilibili-project&layout=compact&theme=vue)](https://github.com/KasRoudra/github-stats-card)
