@@ -23,4 +23,4 @@
 
 ![Anchor's Github Stats](https://github-readme-stats-anchor6777.vercel.app/api?username=Anchor6777)
 
-[![github-stats-card](https://stats-card.pages.dev/repo?user=anchor6777&repo=bilibili-project&layout=compact&theme=vue)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://stats-card.pages.dev/repo?user=Anchor6777&repo=bilibili-project&theme=vue-dark&layout=compact)](https://github.com/KasRoudra/github-stats-card)
